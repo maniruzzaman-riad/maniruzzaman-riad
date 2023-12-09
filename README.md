@@ -1,4 +1,5 @@
-<img  src="https://i.ibb.co/BGKjqpX/Screenshot-66.png" alt="" />
+
+![logo](https://i.ibb.co/BGKjqpX/Screenshot-66.png)
 
 <h1 align="center">Hi 👋, I'm Maniruzzaman Riad</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
