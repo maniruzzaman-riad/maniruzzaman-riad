@@ -1,4 +1,4 @@
-<img  src="https://www.canva.com/design/DAF2eZ84hgQ/DYjVM7OOI_ycIRIbAAU9Kg/view?utm_content=DAF2eZ84hgQ&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="" />
+<img  src="https://i.ibb.co/BGKjqpX/Screenshot-66.png" alt="" />
 
 <h1 align="center">Hi 👋, I'm Maniruzzaman Riad</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
